@@ -1,0 +1,14 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="Resources/dish.obj">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/dish.obj</file>
+<file alias="Resources/front_back.jpg">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/front_back.jpg</file>
+<file alias="Resources/grass.jpg">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/grass.jpg</file>
+<file alias="Resources/right_left.jpg">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/right_left.jpg</file>
+<file alias="Resources/rls.jpg">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/rls.jpg</file>
+<file alias="Resources/top_bot.jpg">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/top_bot.jpg</file>
+<file alias="Resources/SmallAirplane/11805_airplane_v2_L2.mtl">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/SmallAirplane/11805_airplane_v2_L2.mtl</file>
+<file alias="Resources/SmallAirplane/airplane.obj">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/SmallAirplane/airplane.obj</file>
+<file alias="Resources/SmallAirplane/airplane_body_diffuse_v1.jpg">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/SmallAirplane/airplane_body_diffuse_v1.jpg</file>
+<file alias="Resources/SmallAirplane/airplane_wings_diffuse_v1.jpg">/Users/kirill/Desktop/rls_imitation/engineering-workshop/gui_rls/Resources/SmallAirplane/airplane_wings_diffuse_v1.jpg</file>
+</qresource>
+</RCC>
